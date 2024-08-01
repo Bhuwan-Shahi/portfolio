@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Netflix Clone App",
+    "desc": "Netflix clone App which contains only the frontend. The website is built using the ReactJS",
+    "image": "Netflix",
+    "category": "React",
+    "links": {
+      "code": "https://github.com/BisekhKarki/NetflixCloneApp"
+    }
+  },
+  {
+    "name": "Vroom Rental Car System",
+    "desc": "Using reactjs, nodejs and on collboration of 6 people, successfully made a full functional car rental system where users are able to book cars for a specific dates.",
+    "image": "Vroom",
+    "category": "React",
+    "links": {
+      "code": "https://github.com/BisekhKarki/VROOM_Car_Rental"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Using HTML, CSS, JS and PHP I have created a weather App where we get the weather details of a location, we want and also get the past 7days weather data of desired location",
+    "image": "WeatherApp",
+    "category": "htmlCssJS",
+    "links": {
+       "code": "https://github.com/BisekhKarki/Final_Website_ISA_Assignment"
+    }
+  }
+  
+]
