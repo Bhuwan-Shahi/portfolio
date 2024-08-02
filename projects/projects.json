@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "Grocery Store",
+    "desc": "A store where we are able to buy vegetables and generate a bill. A website built using the React Js for frontend and Django for backend.",
+    "image": "Groceries",
+    "category": "React",
+    "links": {
+      "code": "https://github.com/BisekhKarki/groceries"
+    }
+  },
+  {
     "name": "Vroom Rental Car System",
     "desc": "Using reactjs, nodejs and on collboration of 6 people, successfully made a full functional car rental system where users are able to book cars for a specific dates.",
     "image": "Vroom",
@@ -24,6 +33,24 @@
     "category": "htmlCssJS",
     "links": {
        "code": "https://github.com/BisekhKarki/Final_Website_ISA_Assignment"
+    }
+  },
+  {
+    "name": "Noughts And Crosses",
+    "desc": "Using the Python, I have created a noughts and crosses game where a user is able to compete with computer and also save his/her score.",
+    "image": "noughtsCrosses",
+    "category": "Python",
+    "links": {
+       "code": "https://github.com/BisekhKarki/NoightsAndCrosses"
+    }
+  },
+  {
+    "name": "Ceaser Cipher",
+    "desc": "Using the Python, I have created a system where a user is able to decode and encode a code according to the shift he/her wants.",
+    "image": "ceaserCipher",
+    "category": "Python",
+    "links": {
+       "code": "https://github.com/BisekhKarki/Ceaser_Cipher"
     }
   }
   
