@@ -9,7 +9,7 @@
     }
   },
   {
-    "name": "Grocery Store",
+    "name": "Grocery ",
     "desc": "A store where we are able to buy vegetables and generate a bill. A website built using the React Js for frontend and Django for backend.",
     "image": "Groceries",
     "category": "React",
@@ -36,12 +36,12 @@
     }
   },
   {
-    "name": "Noughts And Crosses",
-    "desc": "Using the Python, I have created a noughts and crosses game where a user is able to compete with computer and also save his/her score.",
+    "name": "Tic Tac Toe",
+    "desc": "Using the Java, I have created A simple Tic Tac Toe Game",
     "image": "noughtsCrosses",
-    "category": "Python",
+    "category": "Java",
     "links": {
-       "code": "https://github.com/BisekhKarki/NoightsAndCrosses"
+       "code": "https://github.com/Bhuwan-Shahi/Tictactoe"
     }
   },
   {
