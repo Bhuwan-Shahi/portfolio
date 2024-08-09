@@ -1,11 +1,11 @@
 [
   {
-    "name": "Netflix Clone App",
-    "desc": "Netflix clone App which contains only the frontend. The website is built using the ReactJS",
-    "image": "Netflix",
-    "category": "React",
+    "name": "Socket App",
+    "desc": "Client Server using Socket programming in C!",
+    "image": "C",
+    "category": "C",
     "links": {
-      "code": "https://github.com/BisekhKarki/NetflixCloneApp"
+      "code": "https://github.com/Bhuwan-Shahi/C/tree/master"
     }
   },
   {

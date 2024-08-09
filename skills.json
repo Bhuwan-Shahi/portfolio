@@ -1,24 +1,24 @@
 [
 
     {
-        "name":"React",
-        "icon":"https://img.icons8.com/?size=45&id=asWSSTBrDlTW&format=png&color=000000"
+        "name":"C",
+        "icon":"assets/images/skills/c.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "K8's",
+        "icon": "assets/images/skills/kuber.png"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Docker",
+        "icon": "assets/images/skills/docker.png"
     },
     {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "name": "SpringBoot",
+        "icon": "assets/images/skills/boot.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "Spring",
+        "icon": "assets/images/skills/spring.png"
     },
     {
         "name": "Java",
@@ -26,8 +26,8 @@
     },
     
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "name": "Blynk",
+        "icon": "assets/images/skills/blynk.png"
     },
     {
         "name": "Python",
@@ -41,21 +41,14 @@
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
-   
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Ansible",
+        "icon": "assets/images/skills/ansible.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Terraform",
+        "icon": "assets/images/skills/terraform.png"
     },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    
-    
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
@@ -71,6 +64,10 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/?size=48&id=12599&format=png&color=000000"
+    },
+    {
+        "name": "Bash",
+        "icon": "assets/images/skills/bash.png"
     },
     {
         "name":"Figma",
