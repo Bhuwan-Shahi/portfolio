@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Bisekh Karki";
+            document.title = "Portfolio | Bhuwan Shahi";
             // $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Frontend Development", "Java", "Python","Backend Development", "Web Designing" ],
+    strings: ["Backend Development", "Java", "Cloud","API Development", "Devops" ],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
