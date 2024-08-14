@@ -8,33 +8,8 @@
       "code": "https://github.com/Bhuwan-Shahi/C/tree/master"
     }
   },
-  {
-    "name": "Grocery ",
-    "desc": "A store where we are able to buy vegetables and generate a bill. A website built using the React Js for frontend and Django for backend.",
-    "image": "Groceries",
-    "category": "React",
-    "links": {
-      "code": "https://github.com/BisekhKarki/groceries"
-    }
-  },
-  {
-    "name": "Vroom Rental Car System",
-    "desc": "Using reactjs, nodejs and on collboration of 6 people, successfully made a full functional car rental system where users are able to book cars for a specific dates.",
-    "image": "Vroom",
-    "category": "React",
-    "links": {
-      "code": "https://github.com/BisekhKarki/VROOM_Car_Rental"
-    }
-  },
-  {
-    "name": "Weather App",
-    "desc": "Using HTML, CSS, JS and PHP I have created a weather App where we get the weather details of a location, we want and also get the past 7days weather data of desired location",
-    "image": "WeatherApp",
-    "category": "htmlCssJS",
-    "links": {
-       "code": "https://github.com/BisekhKarki/Final_Website_ISA_Assignment"
-    }
-  },
+ 
+
   {
     "name": "Tic Tac Toe",
     "desc": "Using the Java, I have created A simple Tic Tac Toe Game",
@@ -42,15 +17,6 @@
     "category": "Java",
     "links": {
        "code": "https://github.com/Bhuwan-Shahi/Tictactoe"
-    }
-  },
-  {
-    "name": "Ceaser Cipher",
-    "desc": "Using the Python, I have created a system where a user is able to decode and encode a code according to the shift he/her wants.",
-    "image": "ceaserCipher",
-    "category": "Python",
-    "links": {
-       "code": "https://github.com/BisekhKarki/Ceaser_Cipher"
     }
   }
   
