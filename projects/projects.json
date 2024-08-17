@@ -18,6 +18,15 @@
     "links": {
        "code": "https://github.com/Bhuwan-Shahi/Tictactoe"
     }
+  },
+  {
+    "name": "Mulithreaded Server",
+    "desc": "Client Server using Socket programming which is multithreaded and can handle 600k RPMS!!!!",
+    "image": "server",
+    "category": "Java",
+    "links": {
+      "code": "https://github.com/Bhuwan-Shahi/Multi-Threading"
+    }
   }
   
 ]
